@@ -1,0 +1,6 @@
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\071984\bin\Debug\071984.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\071984\bin\Debug\071984.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\071984\bin\Debug\071984.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\071984\obj\Debug\071984.csprojResolveAssemblyReference.cache
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\071984\obj\Debug\071984.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\071984\obj\Debug\071984.pdb

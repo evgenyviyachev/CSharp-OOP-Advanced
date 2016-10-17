@@ -1,0 +1,6 @@
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\01. CSharp-OOP-Advanced-Interfaces-And-Abstraction\InterfacesAbstraction-Ex\Problem 09\bin\Debug\Problem 09.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\01. CSharp-OOP-Advanced-Interfaces-And-Abstraction\InterfacesAbstraction-Ex\Problem 09\bin\Debug\Problem 09.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\01. CSharp-OOP-Advanced-Interfaces-And-Abstraction\InterfacesAbstraction-Ex\Problem 09\bin\Debug\Problem 09.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\01. CSharp-OOP-Advanced-Interfaces-And-Abstraction\InterfacesAbstraction-Ex\Problem 09\obj\Debug\Problem 09.csprojResolveAssemblyReference.cache
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\01. CSharp-OOP-Advanced-Interfaces-And-Abstraction\InterfacesAbstraction-Ex\Problem 09\obj\Debug\Problem 09.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\01. CSharp-OOP-Advanced-Interfaces-And-Abstraction\InterfacesAbstraction-Ex\Problem 09\obj\Debug\Problem 09.pdb

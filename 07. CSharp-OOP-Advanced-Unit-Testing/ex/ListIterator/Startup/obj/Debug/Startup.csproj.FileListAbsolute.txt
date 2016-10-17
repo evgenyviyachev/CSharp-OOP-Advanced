@@ -1,0 +1,1 @@
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\07. CSharp-OOP-Advanced-Unit-Testing\07. CSharp-OOP-Advanced-Unit-Testing-Exercises\ListIterator\Startup\bin\Debug\Startup.exe.config

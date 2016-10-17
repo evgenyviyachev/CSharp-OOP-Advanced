@@ -1,0 +1,6 @@
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\06MirrorImage\bin\Debug\06MirrorImage.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\06MirrorImage\bin\Debug\06MirrorImage.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\06MirrorImage\bin\Debug\06MirrorImage.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\06MirrorImage\obj\Debug\06MirrorImage.csprojResolveAssemblyReference.cache
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\06MirrorImage\obj\Debug\06MirrorImage.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\06MirrorImage\obj\Debug\06MirrorImage.pdb

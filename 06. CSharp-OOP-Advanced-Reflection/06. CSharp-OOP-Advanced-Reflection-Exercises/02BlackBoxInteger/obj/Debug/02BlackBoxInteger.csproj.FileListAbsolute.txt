@@ -1,0 +1,6 @@
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\02BlackBoxInteger\bin\Debug\02BlackBoxInteger.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\02BlackBoxInteger\bin\Debug\02BlackBoxInteger.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\02BlackBoxInteger\bin\Debug\02BlackBoxInteger.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\02BlackBoxInteger\obj\Debug\02BlackBoxInteger.csprojResolveAssemblyReference.cache
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\02BlackBoxInteger\obj\Debug\02BlackBoxInteger.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\02BlackBoxInteger\obj\Debug\02BlackBoxInteger.pdb

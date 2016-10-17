@@ -1,0 +1,1 @@
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\02. CSharp-OOP-Advanced-Generics\Generics-Ex\Problem 02\bin\Debug\Problem 02.exe.config

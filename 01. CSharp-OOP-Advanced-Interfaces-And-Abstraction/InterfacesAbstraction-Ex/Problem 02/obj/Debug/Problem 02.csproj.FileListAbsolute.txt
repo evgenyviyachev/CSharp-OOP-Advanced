@@ -1,0 +1,1 @@
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\01. CSharp-OOP-Advanced-Interfaces-And-Abstraction\InterfacesAbstraction-Ex\Problem 02\bin\Debug\Problem 02.exe.config

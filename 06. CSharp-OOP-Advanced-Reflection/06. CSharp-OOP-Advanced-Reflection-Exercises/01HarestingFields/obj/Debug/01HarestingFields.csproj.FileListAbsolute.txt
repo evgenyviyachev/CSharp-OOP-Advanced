@@ -1,0 +1,7 @@
+E:\SoftuniSVN\CSharp OOP Advanced\July-2016\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises-Skeleton\01HarestingFields\bin\Debug\01HarestingFields.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\01HarestingFields\bin\Debug\01HarestingFields.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\01HarestingFields\bin\Debug\01HarestingFields.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\01HarestingFields\bin\Debug\01HarestingFields.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\01HarestingFields\obj\Debug\01HarestingFields.csprojResolveAssemblyReference.cache
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\01HarestingFields\obj\Debug\01HarestingFields.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\01HarestingFields\obj\Debug\01HarestingFields.pdb

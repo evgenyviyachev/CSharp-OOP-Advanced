@@ -1,0 +1,6 @@
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\04. CSharp-OOP-Advanced-Enumerations-And-Attributes\EnumAttr-Ex\Problem 11\bin\Debug\Problem 11.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\04. CSharp-OOP-Advanced-Enumerations-And-Attributes\EnumAttr-Ex\Problem 11\bin\Debug\Problem 11.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\04. CSharp-OOP-Advanced-Enumerations-And-Attributes\EnumAttr-Ex\Problem 11\bin\Debug\Problem 11.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\04. CSharp-OOP-Advanced-Enumerations-And-Attributes\EnumAttr-Ex\Problem 11\obj\Debug\Problem 11.csprojResolveAssemblyReference.cache
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\04. CSharp-OOP-Advanced-Enumerations-And-Attributes\EnumAttr-Ex\Problem 11\obj\Debug\Problem 11.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\04. CSharp-OOP-Advanced-Enumerations-And-Attributes\EnumAttr-Ex\Problem 11\obj\Debug\Problem 11.pdb

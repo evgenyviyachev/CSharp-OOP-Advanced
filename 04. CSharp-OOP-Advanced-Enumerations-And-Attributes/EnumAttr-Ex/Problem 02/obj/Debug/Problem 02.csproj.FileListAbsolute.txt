@@ -1,0 +1,1 @@
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\04. CSharp-OOP-Advanced-Enumerations-And-Attributes\EnumAttr-Ex\Problem 02\bin\Debug\Problem 02.exe.config

@@ -1,0 +1,6 @@
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\07. CSharp-OOP-Advanced-Unit-Testing\ex\TPMS\Startup\bin\Debug\Startup.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\07. CSharp-OOP-Advanced-Unit-Testing\ex\TPMS\Startup\bin\Debug\Startup.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\07. CSharp-OOP-Advanced-Unit-Testing\ex\TPMS\Startup\bin\Debug\Startup.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\07. CSharp-OOP-Advanced-Unit-Testing\ex\TPMS\Startup\obj\Debug\TPMS.csprojResolveAssemblyReference.cache
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\07. CSharp-OOP-Advanced-Unit-Testing\ex\TPMS\Startup\obj\Debug\Startup.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\07. CSharp-OOP-Advanced-Unit-Testing\ex\TPMS\Startup\obj\Debug\Startup.pdb

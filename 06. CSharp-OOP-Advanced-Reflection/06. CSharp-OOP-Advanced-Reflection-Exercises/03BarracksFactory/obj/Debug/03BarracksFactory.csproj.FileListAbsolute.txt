@@ -1,0 +1,6 @@
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\03BarracksFactory\bin\Debug\03BarracksFactory.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\03BarracksFactory\bin\Debug\03BarracksFactory.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\03BarracksFactory\bin\Debug\03BarracksFactory.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\03BarracksFactory\obj\Debug\03BarracksFactory.csprojResolveAssemblyReference.cache
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\03BarracksFactory\obj\Debug\03BarracksFactory.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\06. CSharp-OOP-Advanced-Reflection-Exercises\03BarracksFactory\obj\Debug\03BarracksFactory.pdb

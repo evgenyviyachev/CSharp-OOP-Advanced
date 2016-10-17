@@ -1,0 +1,8 @@
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\07. CSharp-OOP-Advanced-Unit-Testing\ex\Database\Database.Test\bin\Debug\Database.Test.dll
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\07. CSharp-OOP-Advanced-Unit-Testing\ex\Database\Database.Test\bin\Debug\Database.Test.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\07. CSharp-OOP-Advanced-Unit-Testing\ex\Database\Database.Test\bin\Debug\Database.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\07. CSharp-OOP-Advanced-Unit-Testing\ex\Database\Database.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\07. CSharp-OOP-Advanced-Unit-Testing\ex\Database\Database.Test\bin\Debug\Database.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\07. CSharp-OOP-Advanced-Unit-Testing\ex\Database\Database.Test\obj\Debug\Database.Test.csprojResolveAssemblyReference.cache
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\07. CSharp-OOP-Advanced-Unit-Testing\ex\Database\Database.Test\obj\Debug\Database.Test.dll
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\07. CSharp-OOP-Advanced-Unit-Testing\ex\Database\Database.Test\obj\Debug\Database.Test.pdb

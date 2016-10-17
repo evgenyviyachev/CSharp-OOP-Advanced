@@ -1,0 +1,5 @@
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\Reflection-Ex\Problem 01\bin\Debug\Problem 01.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\Reflection-Ex\Problem 01\bin\Debug\Problem 01.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\Reflection-Ex\Problem 01\bin\Debug\Problem 01.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\Reflection-Ex\Problem 01\obj\Debug\Problem 01.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\06. CSharp-OOP-Advanced-Reflection\Reflection-Ex\Problem 01\obj\Debug\Problem 01.pdb

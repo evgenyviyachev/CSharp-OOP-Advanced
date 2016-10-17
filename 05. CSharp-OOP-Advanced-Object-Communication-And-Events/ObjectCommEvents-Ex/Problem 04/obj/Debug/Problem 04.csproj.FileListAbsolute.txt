@@ -1,0 +1,6 @@
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\05. CSharp-OOP-Advanced-Object-Communication-And-Events\ObjectCommEvents-Ex\Problem 04\bin\Debug\Problem 04.exe.config
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\05. CSharp-OOP-Advanced-Object-Communication-And-Events\ObjectCommEvents-Ex\Problem 04\bin\Debug\Problem 04.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\05. CSharp-OOP-Advanced-Object-Communication-And-Events\ObjectCommEvents-Ex\Problem 04\bin\Debug\Problem 04.pdb
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\05. CSharp-OOP-Advanced-Object-Communication-And-Events\ObjectCommEvents-Ex\Problem 04\obj\Debug\Problem 04.csprojResolveAssemblyReference.cache
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\05. CSharp-OOP-Advanced-Object-Communication-And-Events\ObjectCommEvents-Ex\Problem 04\obj\Debug\Problem 04.exe
+C:\SoftUni\#1 Programming Fundamentals\C# OOP Advanced\05. CSharp-OOP-Advanced-Object-Communication-And-Events\ObjectCommEvents-Ex\Problem 04\obj\Debug\Problem 04.pdb
